@@ -1,7 +1,6 @@
-- # Mininu totozo 
-### sqn kkkk
-
-#### Dê uma zoiada nos repositórios🔥
+# Desenvolvedor Java
+## Instagram: fidelo34k
+### YouTube: Felipe Fidelo
 
 <!---
 felipefidelo/felipefidelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
