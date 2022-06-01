@@ -1,9 +1,12 @@
 
 # Desenvolvedor
 ## Estudante de programação
-### Dono de: DexZ Bot
-Instagram: @fidelo34k
-YouTube: Felipe Fidelo 
+### Criações: DexZ Bot
+Função "WhatsApp"
+
+BETA "DexZ BotDC"
+
+YouTube:Felipe Fidelo 
 
 <!---
 felipefidelo/felipefidelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
