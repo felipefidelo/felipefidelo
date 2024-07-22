@@ -1,14 +1,15 @@
+# 👨‍💻 Desenvolvedor: Felipe Fidelo
 
-# Desenvolvedor
-## Estudante de programação
-### Criações: DexZ Bot
-Função "WhatsApp"
+## 📚 Estudante de Programação
 
-BETA "DexZ BotDC"
+### 🚀 Criações:
+- **DexZ Bot**: Função para WhatsApp
+- **DexZ BotDC**: Versão BETA
 
-YouTube:Felipe Fidelo 
+📺 YouTube: [Felipe Fidelo](https://youtube.com/@felipefidelo?si=DgQPZRLvCw9Ywcbz)
 
-<!---
-felipefidelo/felipefidelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+🌟 Este repositório é especial porque é o ponto de partida para conhecer meu trabalho e acompanhar meus projetos em desenvolvimento.
+
+[🔗 Clique aqui para ver as mudanças](SEU_LINK_DE_PREVIEW_AQUI)
