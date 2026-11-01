@@ -151,28 +151,67 @@ Meu espaço para apresentar projetos, trabalhos audiovisuais, soluções tecnol�
 
 ---
 
+<!-- SOCIAL MEDIA & CONTACTS -->
+
 ## 🌎 Conecte-se comigo
 
 <div align="center">
 
-<a href="https://felipefidelo.com.br">
-<img src="https://img.shields.io/badge/Website-felipefidelo.com.br-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://myndverse.com.br">
-<img src="https://img.shields.io/badge/MyndVerse-myndverse.com.br-17121F?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://instagram.com/fidelo34k">
+<img src="https://img.shields.io/badge/Instagram-@fidelo34k-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://youtube.com/@felipefidelo">
 <img src="https://img.shields.io/badge/YouTube-Felipe%20Fidelo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
+<a href="https://felipefidelo.com.br">
+<img src="https://img.shields.io/badge/Website-Felipe%20Fidelo-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://myndverse.com.br">
+<img src="https://img.shields.io/badge/MyndVerse-Marketing%20%26%20Technology-17121F?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 📩 Contatos profissionais
+
+<div align="center">
+
+### MYNDVERSE · MARKETING & TECHNOLOGY
+
+<a href="mailto:contato@myndverse.com.br">
+<img src="https://img.shields.io/badge/Contato%20Comercial-contato@myndverse.com.br-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/>
+
+<a href="mailto:assessoria@myndverse.com.br">
+<img src="https://img.shields.io/badge/Assessoria-assessoria@myndverse.com.br-6D28D9?style=for-the-badge&logo=minutemailer&logoColor=white"/>
+</a>
+
+<br/>
+
+<a href="mailto:imprensa@myndverse.com.br">
+<img src="https://img.shields.io/badge/Imprensa-imprensa@myndverse.com.br-512DA8?style=for-the-badge&logo=newspaper&logoColor=white"/>
+</a>
+
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&label=VISITAS%20AO%20PERFIL&color=8B5CF6&style=for-the-badge"/>
+<a href="https://myndverse.com.br">myndverse.com.br</a>
 
-<br/><br/>
+</div>
 
+---
+
+<div align="center">
+
+
+
+</div>
 **Desenvolvendo ideias. Construindo soluções. Criando o futuro.**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10051C,50:512DA8,100:8B5CF6&height=100&section=footer"/>
