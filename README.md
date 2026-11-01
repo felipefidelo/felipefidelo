@@ -27,12 +27,26 @@ Atuação em:
 
 🔗 [myndverse.com.br](https://myndverse.com.br)
 
-### 🤖 Luna
-**Assistente virtual e inteligência aplicada**
+### 🧠 Luna
+**Assistente pessoal inteligente | Automação e controle integrado**
 
-Projeto de assistente virtual desenvolvido para integrar tecnologia, automação e atendimento.
+A Luna é uma assistente virtual inteligente desenvolvida por Felipe Fidelo, projetada para ir além das interações convencionais com chatbots.
 
-A Luna faz parte do ecossistema de soluções da MyndVerse, com funcionalidades voltadas à interação com usuários, atendimento automatizado, organização de informações e execução de tarefas.
+Com um ecossistema de funcionalidades integradas, ela atua como uma assistente pessoal capaz de executar tarefas, gerenciar atividades e interagir com diferentes serviços.
+
+Entre suas funcionalidades estão:
+
+- 💳 **Pagamentos:** execução e gerenciamento de operações financeiras integradas.
+- 📅 **Gestão de agenda:** organização de compromissos, eventos e lembretes.
+- 🎙️ **Controle por voz:** interação e execução de comandos através da voz.
+- 📞 **Atendimento de chamadas:** integração para receber e atender ligações.
+- 🤖 **Assistência inteligente:** interação contextual e auxílio em tarefas cotidianas.
+- ⚙️ **Automação:** execução de comandos e integração entre diferentes funcionalidades.
+- 📱 **Integração com WhatsApp:** comunicação, atendimento e interação com serviços.
+
+A proposta da Luna é centralizar diferentes recursos em uma única assistente, aproximando a experiência de ter uma secretária pessoal digital disponível para auxiliar na rotina.
+
+**Luna não foi criada apenas para conversar. Foi desenvolvida para executar.**
 
 ### 👨‍💻 Felipe Fidelo
 **Portfólio profissional e projetos**
