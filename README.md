@@ -1,35 +1,16 @@
- 
-<!--
-  GITHUB PROFILE README
-  Repository: github.com/felipefidelo/felipefidelo
--->
+ <div align="center">
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10051C,50:512DA8,100:8B5CF6&height=180&section=header&text=Felipe%20Fidelo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Founder%20%7C%20Technology&descAlignY=55&descSize=16"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:120A24,50:5126A8,100:090611&text=FELIPE%20FIDELO&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Desenvolvimento%20%7C%20Tecnologia%20%7C%20Inova%C3%A7%C3%A3o&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+<a href="https://github.com/felipefidelo">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Desenvolvedor+e+empreendedor;Fundador+da+MyndVerse;Criador+da+Luna+AI;Desenvolvedor+do+Observat%C3%B3rio;Construindo+solu%C3%A7%C3%B5es+que+geram+impacto"/>
+</a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Empreendedor+%26+Desenvolvedor;Fundador+da+MyndVerse;Criador+da+Luna+AI;Desenvolvendo+O+Observat%C3%B3rio;Transformando+ideias+em+tecnologia." alt="Animação de apresentação" />
-
-<br/><br/>
-
-<a href="https://felipefidelo.com.br">
-<img src="https://img.shields.io/badge/PORTF%C3%93LIO-120A24?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://myndverse.com.br">
-<img src="https://img.shields.io/badge/MYNDVERSE-5126A8?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://instagram.com/fidelo34k">
-<img src="https://img.shields.io/badge/INSTAGRAM-120A24?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://youtube.com/@felipefidelo">
-<img src="https://img.shields.io/badge/YOUTUBE-5126A8?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=felipefidelo&style=for-the-badge&color=5126A8&label=VISUALIZA%C3%87%C3%95ES+DO+PERFIL" />
+<a href="https://felipefidelo.com.br"><img src="https://img.shields.io/badge/PORTFOLIO-Felipe%20Fidelo-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://myndverse.com.br"><img src="https://img.shields.io/badge/MYNDVERSE-Marketing%20%26%20Technology-17121F?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://instagram.com/fidelo34k"><img src="https://img.shields.io/badge/INSTAGRAM-@fidelo34k-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 </div>
 
@@ -37,175 +18,163 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **Felipe Fidelo**, empreendedor e desenvolvedor interessado em tecnologia, inteligência artificial, marketing, automação e criação de soluções digitais.
+Olá! Sou **Felipe Fidelo**, desenvolvedor e empreendedor brasileiro, fundador da **MyndVerse**, uma agência de marketing e tecnologia.
 
-Minha atuação envolve transformar ideias em projetos funcionais, desenvolver plataformas, estruturar operações digitais e criar ferramentas que resolvam problemas reais.
+Minha atuação envolve desenvolvimento de aplicações web, criação de plataformas, sistemas administrativos, automações, inteligência artificial e soluções tecnológicas personalizadas.
 
-Sou fundador da **MyndVerse**, desenvolvo a **Luna**, trabalho no projeto nacional **O Observatório** e mantenho meu portfólio profissional em felipefidelo.com.br.
+Gosto de desenvolver projetos desde a concepção até a implementação, conectando diferentes tecnologias para transformar ideias em produtos funcionais.
 
-Não vejo tecnologia apenas como código. Vejo como uma ferramenta para construir negócios, organizar informações, conectar pessoas e criar novas possibilidades.
+Atualmente, concentro meus esforços em projetos próprios e soluções para empresas, profissionais e iniciativas de interesse público.
 
-```javascript
-const felipeFidelo = {
-    role: "Empreendedor e Desenvolvedor",
-    company: "MyndVerse",
-    location: "Brasil",
-    interests: [
-        "Desenvolvimento Web",
-        "Inteligência Artificial",
-        "Automação",
-        "Marketing e Tecnologia",
-        "Sistemas e Plataformas",
-        "Tecnologia Cívica"
-    ],
-    currentProjects: [
-        "MyndVerse",
-        "Luna AI",
-        "O Observatório",
-        "Felipe Fidelo"
-    ],
-    philosophy: "Transformar ideias em soluções reais."
-};
-```
+- 🚀 Fundador da MyndVerse.
+- 🧠 Criador da Luna, minha assistente pessoal inteligente.
+- 🏛️ Idealizador e desenvolvedor de O Observatório.
+- 🌐 Desenvolvimento de sites, sistemas e plataformas.
+- 🤖 Automação, inteligência artificial e integrações.
+- 💻 Desenvolvimento de soluções digitais personalizadas.
 
 ---
 
-## 🚀 Projetos
+## 🚀 Principais projetos
 
-### <img src="https://cdn.jsdelivr.net/npm/@withicons/core@latest/dist/svg/soft3d/rocket.svg" width="34" align="center" /> MyndVerse
-
+### 🌐 MyndVerse
 **Agência de Marketing e Tecnologia**
 
-<a href="https://myndverse.com.br">myndverse.com.br</a>
+A MyndVerse é uma agência de marketing e tecnologia fundada por Felipe Fidelo, dedicada ao desenvolvimento de soluções digitais e à construção de presença online para empresas, profissionais e organizações.
 
-A MyndVerse é uma agência de marketing e tecnologia fundada por Felipe Fidelo. Seu propósito é desenvolver a estrutura digital que empresas, profissionais e projetos precisam para crescer.
+Mais do que uma agência de comunicação, a MyndVerse trabalha com a estrutura tecnológica por trás dos negócios, desenvolvendo ferramentas, plataformas e sistemas personalizados.
 
-Mais do que comunicação e presença digital, a MyndVerse trabalha com desenvolvimento de soluções tecnológicas, plataformas e ferramentas personalizadas.
+**Principais frentes de atuação:**
 
-**Áreas de atuação:**
-
-- Desenvolvimento de sites institucionais e profissionais.
+- Desenvolvimento de sites institucionais e comerciais.
 - Landing pages e páginas de conversão.
-- Sistemas administrativos e painéis de controle.
-- CRM e gestão de clientes.
-- Automações e integrações.
+- Sistemas administrativos e painéis de gestão.
+- CRM e ferramentas de relacionamento.
+- Automações e integrações com APIs.
 - Inteligência artificial e assistentes virtuais.
-- WhatsApp, chatbots e atendimento automatizado.
-- E-commerce e soluções comerciais.
+- Soluções para WhatsApp e atendimento automatizado.
 - SEO, posicionamento digital e marketing.
-- Identidade visual e estrutura de marca.
-- Hospedagem, manutenção e evolução de projetos.
+- E-commerce e plataformas personalizadas.
+- Identidade visual, branding e comunicação.
 
-**Visão:** construir tecnologia que organiza negócios, simplifica processos e gera novas oportunidades.
-
----
-
-### <img src="https://cdn.jsdelivr.net/npm/@withicons/core@latest/dist/svg/soft3d/cpu.svg" width="34" align="center" /> Luna AI
-
-**Uma assistente inteligente desenvolvida para executar.**
-
-A Luna nasceu como um projeto de inteligência artificial e evoluiu para uma assistente pessoal com recursos de interação, automação e execução de tarefas.
-
-Ela não foi criada apenas para conversar. Foi desenvolvida para executar.
-
-Entre suas funcionalidades e frentes de desenvolvimento estão:
-
-- Interação com inteligência artificial.
-- Assistência pessoal e organização de atividades.
-- Gerenciamento de agenda e compromissos.
-- Controle por voz.
-- Integração com WhatsApp.
-- Recebimento e atendimento de chamadas.
-- Pagamentos e recursos financeiros integrados.
-- Automações e execução de tarefas.
-- Lembretes, anotações e gerenciamento de rotinas.
-- Administração de acessos e funcionalidades.
-
-A proposta é aproximar a inteligência artificial da rotina real, tornando a tecnologia capaz de ajudar não apenas com respostas, mas também com ações.
-
-**Luna AI: inteligência que conversa, organiza e executa.**
+🌐 https://myndverse.com.br
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/npm/@withicons/core@latest/dist/svg/soft3d/database.svg" width="34" align="center" /> O Observatório
+### 🧠 Luna AI
+**Assistente pessoal inteligente e automação integrada**
 
-**Tecnologia, transparência e informação pública.**
+A Luna é uma assistente virtual inteligente desenvolvida por Felipe Fidelo, projetada para executar tarefas e controlar diferentes funcionalidades do cotidiano.
 
-O Observatório é um projeto independente de tecnologia cívica que busca facilitar o acesso dos brasileiros a informações públicas governamentais.
+Seu propósito vai além de responder perguntas ou manter conversas. A Luna funciona como uma central de assistência pessoal, reunindo recursos de comunicação, organização, automação e execução de comandos.
 
-A proposta é reunir, organizar e apresentar dados de fontes oficiais em uma plataforma nacional, gratuita e acessível.
+**Funcionalidades do ecossistema Luna:**
 
-**O que o projeto busca organizar:**
+- 💳 **Pagamentos:** integração com operações de pagamento e funcionalidades financeiras.
+- 📅 **Agenda inteligente:** gerenciamento de compromissos, organização de horários e lembretes.
+- 🎙️ **Controle por voz:** interação através de comandos de voz.
+- 📞 **Atendimento de ligações:** integração para receber e atender chamadas.
+- 🤖 **Inteligência artificial:** interação inteligente e assistência contextual.
+- 📱 **WhatsApp:** comunicação, automação e interação com funcionalidades da assistente.
+- ⚙️ **Automação de tarefas:** execução de comandos e integração entre serviços.
+- 🔔 **Organização pessoal:** apoio na gestão de atividades e rotinas.
 
-- Prefeitos e vereadores.
+A proposta é centralizar diferentes recursos em uma única assistente, tornando possível interagir com serviços e executar ações sem depender de diversas aplicações separadas.
+
+**A Luna não foi criada apenas para conversar. Foi desenvolvida para executar.**
+
+---
+
+### 🏛️ O Observatório
+**Transparência pública, inteligência de dados e cidadania**
+
+O Observatório é um projeto independente de tecnologia idealizado e desenvolvido por Felipe Fidelo.
+
+A iniciativa tem como objetivo facilitar o acesso da população às informações públicas governamentais, transformando dados oficiais, muitas vezes dispersos e difíceis de consultar, em informações organizadas, acessíveis e compreensíveis.
+
+A proposta é construir uma plataforma nacional, gratuita e pesquisável, que permita acompanhar a atuação de representantes públicos e consultar informações relacionadas à administração dos municípios brasileiros.
+
+**O que a plataforma pretende reunir:**
+
+**Política e representantes públicos**
+- Prefeitos e vice-prefeitos.
+- Vereadores e representantes municipais.
+- Deputados, senadores e demais representantes.
 - Candidatos e históricos eleitorais.
-- Municípios e informações administrativas.
-- Gastos e receitas públicas.
-- Contratos e licitações.
+- Perfis públicos e históricos de mandatos.
+
+**Gestão pública e fiscalização**
+- Receitas e despesas municipais.
+- Contratos administrativos.
+- Licitações e processos de contratação.
 - Emendas parlamentares.
-- Propostas e ações de mandatos.
-- Histórico da administração pública.
-- Informações para consulta e acompanhamento cidadão.
+- Repasses e recursos públicos.
+- Propostas e histórico administrativo.
 
-O projeto pretende transformar informações públicas dispersas em dados mais acessíveis, pesquisáveis e compreensíveis.
+**Municípios e eleições**
+- Consulta de municípios brasileiros.
+- Informações sobre eleições.
+- Histórico de resultados eleitorais.
+- Dados relacionados à administração municipal.
+- Organização de informações por município e período.
 
-Com uma experiência pensada para dispositivos móveis, perfis consultáveis e organização por municípios, O Observatório busca aproximar cidadãos, jornalistas, pesquisadores e a sociedade das informações públicas.
+**Visão do projeto**
 
-**Objetivo:** tornar a transparência pública mais acessível por meio da tecnologia.
+O Observatório busca aproximar o cidadão das informações públicas, oferecendo uma experiência moderna de consulta, com navegação simplificada, perfis pesquisáveis e organização de dados.
 
-**Horizonte:** contribuir para uma nova forma de acompanhar a política e a administração pública brasileira, especialmente no caminho das eleições municipais de 2028.
+A plataforma também pretende ser uma ferramenta de apoio para jornalistas, pesquisadores, estudantes e cidadãos interessados em acompanhar a administração pública.
 
----
+O objetivo é contribuir para uma sociedade com mais acesso à informação, transparência e participação cidadã.
 
-### <img src="https://cdn.jsdelivr.net/npm/@withicons/core@latest/dist/svg/soft3d/image.svg" width="34" align="center" /> Felipe Fidelo
-
-**Portfólio profissional e projetos autorais.**
-
-<a href="https://felipefidelo.com.br">felipefidelo.com.br</a>
-
-Meu espaço profissional reúne projetos, trabalhos audiovisuais, desenvolvimento e experiências construídas ao longo da minha trajetória.
-
-Atuação em diferentes frentes:
-
-- Produção audiovisual e videomaker.
-- Captação e edição de vídeo.
-- Projetos para empresas e profissionais.
-- Desenvolvimento de soluções digitais.
-- Projetos de comunicação e tecnologia.
-- Estruturação de presença digital.
+**Informação pública precisa ser acessível ao público.**
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/npm/@withicons/core@latest/dist/svg/soft3d/cloud.svg" width="34" align="center" /> DexZ Bot
+### 👨‍💻 Felipe Fidelo
+**Portfólio profissional e desenvolvimento de projetos**
 
-**Um dos projetos que fizeram parte da minha trajetória.**
+Meu portfólio pessoal reúne trabalhos, experiências e projetos desenvolvidos ao longo da minha trajetória.
 
-Bot desenvolvido para automações e funcionalidades no WhatsApp, representando uma das primeiras experiências com integrações, comandos e desenvolvimento de ferramentas automatizadas.
+O espaço também contempla minha atuação audiovisual, com trabalhos de videomaker, cobertura de eventos, produção de conteúdo e projetos para empresas e profissionais.
+
+Além da área audiovisual, o portfólio apresenta minha atuação em tecnologia e desenvolvimento de soluções digitais.
+
+🌐 https://felipefidelo.com.br
 
 ---
 
-## 🧠 Tecnologias e ferramentas
+### 🤖 DexZ Bot
+**Automação e desenvolvimento de bots**
 
-Tecnologias e ferramentas com as quais trabalho em projetos de desenvolvimento, integração e automação:
+Um dos projetos que marcaram minha trajetória no desenvolvimento de aplicações e automações.
+
+O DexZ Bot surgiu como uma experiência de criação de funcionalidades automatizadas para WhatsApp, explorando comandos, integrações e possibilidades de interação entre usuários e sistemas.
+
+O projeto representa uma das etapas iniciais da minha jornada com automação e desenvolvimento de assistentes.
+
+---
+
+## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,mysql,supabase,git,github,vscode&theme=dark&perline=5" />
+**Linguagens e desenvolvimento**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs&theme=dark"/>
+
+**Banco de dados e infraestrutura**
+
+<img src="https://skillicons.dev/icons?i=mysql,supabase,git,github,vscode&theme=dark"/>
+
+**Áreas de especialização**
+
+<img src="https://img.shields.io/badge/Web%20Development-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Integration-512DA8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Systems%20Development-17121F?style=for-the-badge"/>
 
 </div>
-
-<br/>
-
-**Outras áreas de interesse e desenvolvimento:**
-
-- APIs e integrações.
-- Bancos de dados e modelagem.
-- Sistemas web e painéis administrativos.
-- Autenticação e controle de acesso.
-- Inteligência artificial aplicada.
-- Automação de processos.
-- Desenvolvimento de plataformas.
-- SEO e infraestrutura digital.
 
 ---
 
@@ -213,71 +182,57 @@ Tecnologias e ferramentas com as quais trabalho em projetos de desenvolvimento, 
 
 <div align="center">
 
-<a href="https://github.com/felipefidelo">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipefidelo&show_icons=true&count_private=true&hide_border=true&bg_color=090611&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&rank_icon=github" />
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=felipefidelo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"/>
 
-<a href="https://github.com/felipefidelo">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefidelo&layout=compact&hide_border=true&bg_color=090611&title_color=A78BFA&text_color=E5E7EB&langs_count=8" />
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefidelo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=felipefidelo&theme=transparent&hide_border=true&background=090611&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E5E7EB&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img width="80%" src="https://streak-stats.demolab.com?user=felipefidelo&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌎 Redes e presença digital
 
 <div align="center">
 
-<a href="https://felipefidelo.com.br">
-<img src="https://img.shields.io/badge/Website-felipefidelo.com.br-120A24?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
+<a href="https://instagram.com/fidelo34k"><img src="https://img.shields.io/badge/Instagram-@fidelo34k-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-<a href="https://myndverse.com.br">
-<img src="https://img.shields.io/badge/MyndVerse-myndverse.com.br-5126A8?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<a href="https://youtube.com/@felipefidelo"><img src="https://img.shields.io/badge/YouTube-Felipe%20Fidelo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
-<a href="https://github.com/felipefidelo">
-<img src="https://img.shields.io/badge/GitHub-felipefidelo-120A24?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://felipefidelo.com.br"><img src="https://img.shields.io/badge/Portfolio-felipefidelo.com.br-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
-<a href="https://instagram.com/fidelo34k">
-<img src="https://img.shields.io/badge/Instagram-@fidelo34k-5126A8?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<a href="https://myndverse.com.br"><img src="https://img.shields.io/badge/MyndVerse-myndverse.com.br-17121F?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-<a href="https://youtube.com/@felipefidelo">
-<img src="https://img.shields.io/badge/YouTube-@felipefidelo-120A24?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
+<a href="https://github.com/felipefidelo"><img src="https://img.shields.io/badge/GitHub-felipefidelo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
 ---
 
-## 📩 Contato profissional
-
-Para assuntos comerciais, assessoria e imprensa:
+## 📩 Contatos profissionais
 
 <div align="center">
 
-<a href="mailto:contato@myndverse.com.br">
-<img src="https://img.shields.io/badge/COMERCIAL-contato%40myndverse.com.br-5126A8?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+### MYNDVERSE | MARKETING & TECHNOLOGY
+
+**Comercial e atendimento**
+
+<a href="mailto:contato@myndverse.com.br"><img src="https://img.shields.io/badge/Contato%20Comercial-contato@myndverse.com.br-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+**Assessoria**
+
+<a href="mailto:assessoria@myndverse.com.br"><img src="https://img.shields.io/badge/Assessoria-assessoria@myndverse.com.br-6D28D9?style=for-the-badge&logo=minutemailer&logoColor=white"/></a>
+
+**Imprensa e comunicação**
+
+<a href="mailto:imprensa@myndverse.com.br"><img src="https://img.shields.io/badge/Imprensa-imprensa@myndverse.com.br-512DA8?style=for-the-badge&logo=newspaper&logoColor=white"/></a>
 
 <br/>
 
-<a href="mailto:assessoria@myndverse.com.br">
-<img src="https://img.shields.io/badge/ASSESSORIA-assessoria%40myndverse.com.br-120A24?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/>
-
-<a href="mailto:imprensa@myndverse.com.br">
-<img src="https://img.shields.io/badge/IMPRENSA-imprensa%40myndverse.com.br-5126A8?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+🌐 https://myndverse.com.br
 
 </div>
 
@@ -285,11 +240,14 @@ Para assuntos comerciais, assessoria e imprensa:
 
 <div align="center">
 
-### Construindo ideias. Desenvolvendo soluções. Criando possibilidades.
+<img src="https://komarev.com/ghpvc/?username=felipefidelo&label=VISITAS%20AO%20PERFIL&color=8B5CF6&style=for-the-badge"/>
 
-**Felipe Fidelo**  
-Empreendedor • Desenvolvedor • Fundador da MyndVerse
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:120A24,50:5126A8,100:090611" width="100%" />
+**Felipe Fidelo**
+
+*Desenvolvendo ideias. Construindo soluções. Criando o futuro.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10051C,50:512DA8,100:8B5CF6&height=110&section=footer"/>
 
 </div>
